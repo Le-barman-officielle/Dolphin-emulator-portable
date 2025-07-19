@@ -12,7 +12,7 @@
 
 4. Click on **Extract** – the emulator will be extracted to the chosen location.
 
-5. Once extracted, open the folder named **`Dolphin-x64`**.
+5. Once extracted, open the folder named **`Dolphin-x64`** (this is the extracted folder).
 
 6. Run the file **`Dolphin.exe`** to launch the emulator.
 
@@ -30,7 +30,7 @@
 
 4. Cliquez sur **Extract** : l’émulateur sera extrait à l’endroit choisi.
 
-5. Une fois l’extraction terminée, ouvrez le dossier nommé **`Dolphin-x64`**.
+5. Une fois l’extraction terminée, ouvrez le dossier **`Dolphin-x64`** (c’est le dossier extrait).
 
 6. Lancez le fichier **`Dolphin.exe`** pour démarrer l’émulateur.
 
